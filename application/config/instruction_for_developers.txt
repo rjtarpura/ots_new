@@ -1,0 +1,5 @@
+Default Configuration files of COdeigniter placed here.
+
+Individual subdomin, seprate copy of config file, inwhich each file includes respecitve file from this directory to include global configuration.
+
+Developer can define domain specific configuration  in those files.
